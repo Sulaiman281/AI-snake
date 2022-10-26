@@ -1,4 +1,5 @@
 # AI snake
+* A*Algorithm ( Path Finding Algorithm )
 
 AI snake using Path finding Algorithm in JavaFX
 
